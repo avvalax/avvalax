@@ -6,7 +6,8 @@
 ![node](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![react](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=MYSQl&logoColor=white)
-![grafana](https://img.shields.io/badge/-GRAFANA-black?style=for-the-badge&logo=grafana&logoColor=white)
+![docker](https://img.shields.io/badge/-DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white)
+![grafana](https://img.shields.io/badge/-GRAFANA-black?style=for-the-badge&logo=grafana&logoColor=orange)
 
 
 <!--
