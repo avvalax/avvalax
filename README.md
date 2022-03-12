@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1>Hi there </h1>
+
+## Tecnologies & Tools
+
+![js](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![node](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
+![mysql](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=MYSQl&logoColor=white)
+![grafana](https://img.shields.io/badge/-GRAFANA-black?style=for-the-badge&logo=grafana&logoColor=white)
+
 
 <!--
 **avvalax/avvalax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
