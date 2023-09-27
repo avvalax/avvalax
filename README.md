@@ -8,6 +8,7 @@
 ![mysql](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=MYSQl&logoColor=white)
 ![docker](https://img.shields.io/badge/-DOCKER-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![grafana](https://img.shields.io/badge/-GRAFANA-black?style=for-the-badge&logo=grafana&logoColor=orange)
+![postgres](https://img.shields.io/badge/-POSTGRES-black?style=for-the-badge&logo=postgres&logoColor=orange)
 
 
 <!--
